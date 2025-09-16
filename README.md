@@ -1,1 +1,1 @@
-# fitst-wed-deploy
+# fitst-web-deploy
